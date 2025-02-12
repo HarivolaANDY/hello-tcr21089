@@ -1,4 +1,4 @@
-package com.example.demo.endpoint.rest.controller;
+package com.example.demo.endpoint.rest.controller.health;
 
 import org.springframework.web.bind.annotation.RestController;
 
